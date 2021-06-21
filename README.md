@@ -2,6 +2,8 @@
 
 Este proyecto consta de un servidor REST sencillo para la gestión de items.
 
+Dummy
+
 ## Construir la aplicación (en local)
 
 Para construir el JAR del proyecto (y lanzar los test):
